@@ -150,7 +150,8 @@
   내가 원하는 정보만 가져올 수 있어야 한다.     
 ***
 * 학습해야할 것     
-  * Jsoup 라이브러리에 대한 기본적인 이해     
+  * Jsoup 라이브러리에 대한 기본적인 이해        
+  * [jsoup 공부](https://github.com/growinghsb/til_blog/blob/main/March/30-2.md)     
   
   * Jsoup 라이브러리를 사용한 예제 코드 분석     
   
